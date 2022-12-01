@@ -1,3 +1,7 @@
 .style-scope.ytd-browse.grid-disabled {
     display: none;
 }
+
+.ytd-watch-next-secondary-results-renderer {
+    display: none;
+}
